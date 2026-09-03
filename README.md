@@ -1,17 +1,27 @@
-# 🎮 Jeu de Nim (Console)
+Mes projets personnels
 
-Un petit jeu de Nim textuel développé en **C++** pour s'exercer à la logique algorithmique et à la programmation orientée objet.
+# Une Calculatrice
 
-## 🚀 Fonctionnalités
-* Mode de jeu joueur contre ordinateur.
-* Système d'intelligence artificielle rudimentaire basée sur des conditions de choix de bâtonnets.
-* Affichage simple et clair dans le terminal.
+# Jeu de Nim (Console) :
 
-## 🧠 Ce que j'ai appris
-* Gestion de la mémoire et des flux d'entrée/sortie (`std::cin`, `std::cout`) en C++.
-* Structuration du code avec des fonctions et des boucles de jeu (`while`).
-* Modélisation d'une logique de décision (IA).
+  C'est un projet fait durant ma 5iem au collège, je l'ai fais par curiosité.
 
-## 🛠️ Améliorations futures (Bugs connus)
-* L'IA fait parfois des choix invalides en fin de partie (bug de logique en cours de résolution).
-* Ajouter une interface graphique simple ou une gestion des scores.
+  ## Les Fonctionnalités :
+   * 2 Modes de jeu
+        * * Joueur contre Joueur
+          **Joueur contre IA :
+       * LIA à trois modes de difficulté
+         ** Mode Facile : l'IA tire des allumettes de façons aléatoire entre 1 et 3.
+         ** Mode Intermédiaire : L'IA alterne entre le mode facile et le mode extrême.
+         ** Mode Extrême : L'IA tire le nombre d'allumettes parfait pour gagner à tout les coups.
+    *L'affichage ce fait par le terminale.
+
+  ## Ce que j'ai appris : 
+   * La gestion de la mémoire et des flux d'entrée/sortie (`std::cin`, `std::cout`) en C++.
+    *La gestion des erreurs si le joueur essaye d'enlever plus d'allumettes que prévue.
+    *La structure du code avec des fonctions et des boucles de jeu (`while`).
+    *La modélisation d'une logique de décision (IA).
+
+  ## Amélioration futures (BUG connus)
+  *Dans le mode Intermédiaire le programme plante.
+  *Ajouter une interface simple.
