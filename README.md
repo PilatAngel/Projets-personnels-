@@ -1,4 +1,4 @@
-# Projets-personnels-
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e2343395-d842-407c-bf33-2f5563ca5ac6" /># Projets-personnels-
 Mes projets personnels
 
 Une Calculatrice
@@ -7,7 +7,7 @@ Jeu de Nim (Console) :
   C'est un projet fait durant ma 5iem au collège, je l'ai fais par curiosité.
 
   Les Fonctionnalités :
-    2 Modes de jeu
+   ➡️ 2 Modes de jeu
       Joueur contre Joueur
       Joueur contre IA :
         LIA à trois modes de difficulté
