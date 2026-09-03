@@ -1,6 +1,7 @@
 # Projets-personnels-
 Mes projets personnels
 
+Une Calculatrice
 Jeu de Nim (Console) :
   C'est un projet fait durant ma 5iem au collège, je l'ai fais par curiosité.
 
@@ -16,6 +17,7 @@ Jeu de Nim (Console) :
 
   Ce que j'ai appris : 
     La gestion de la mémoire et des flux d'entrée/sortie (`std::cin`, `std::cout`) en C++.
+    La gestion des erreurs si le joueur essaye d'enlever plus d'allumettes que prévue.
     La structure du code avec des fonctions et des boucles de jeu (`while`).
     La modélisation d'une logique de décision (IA).
 
