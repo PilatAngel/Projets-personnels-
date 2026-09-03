@@ -17,11 +17,11 @@ Mes projets personnels
     *L'affichage ce fait par le terminale.
 
   ## Ce que j'ai appris : 
-   * La gestion de la mémoire et des flux d'entrée/sortie (`std::cin`, `std::cout`) en C++.
-    *La gestion des erreurs si le joueur essaye d'enlever plus d'allumettes que prévue.
-    *La structure du code avec des fonctions et des boucles de jeu (`while`).
-    *La modélisation d'une logique de décision (IA).
+  * La gestion de la mémoire et des flux d'entrée/sortie (`std::cin`, `std::cout`) en C++.
+  * La gestion des erreurs si le joueur essaye d'enlever plus d'allumettes que prévue.
+  * La structure du code avec des fonctions et des boucles de jeu (`while`).
+  * La modélisation d'une logique de décision (IA).
 
   ## Amélioration futures (BUG connus)
-  *Dans le mode Intermédiaire le programme plante.
-  *Ajouter une interface simple.
+  * Dans le mode Intermédiaire le programme plante.
+  * Ajouter une interface simple.
