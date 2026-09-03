@@ -1,4 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e2343395-d842-407c-bf33-2f5563ca5ac6" /># Projets-personnels-
 Mes projets personnels
 
 Une Calculatrice
@@ -8,8 +7,8 @@ Jeu de Nim (Console) :
 
   Les Fonctionnalités :
    ➡️ 2 Modes de jeu
-      Joueur contre Joueur
-      Joueur contre IA :
+     ➡️ Joueur contre Joueur
+     ➡️ Joueur contre IA :
         LIA à trois modes de difficulté
           Mode Facile : l'IA tire des allumettes de façons aléatoire entre 1 et 3.
           Mode Intermédiaire : L'IA alterne entre le mode facile et le mode extrême.
