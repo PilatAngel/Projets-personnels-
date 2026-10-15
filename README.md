@@ -10,7 +10,7 @@ Mes projets personnels
    * 2 Modes de jeu
         *  Joueur contre Joueur
           *Joueur contre IA :
-       * LIA à trois modes de difficulté
+       * L'IA à trois modes de difficulté
          * Mode Facile : l'IA tire des allumettes de façons aléatoire entre 1 et 3.
          * Mode Intermédiaire : L'IA alterne entre le mode facile et le mode extrême.
          * Mode Extrême : L'IA tire le nombre d'allumettes parfait pour gagner à tout les coups.
